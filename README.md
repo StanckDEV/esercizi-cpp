@@ -9,4 +9,4 @@ Percorso di studio in C++ seguendo il libro di testo, organizzato per argomento 
 - `04-programmi-completi` — programmi che integrano più concetti (menu interattivi, ecc.)
 
 ## Obiettivo
-Consolidare le basi di C++ in vista del percorso universitario in Scienze Informatiche (USI Lugano).
+Consolidare le basi di C++.
